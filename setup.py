@@ -41,7 +41,7 @@ install_requires = [
 
 
 setup_args = dict(
-    name="tentaclio-databricks",
+    name="tentaclio-databricks-pyodbc",
     version=VERSION,
     include_package_data=True,
     description="A python project containing all the dependencies for schema databricks:pyodbc for tentaclio.",

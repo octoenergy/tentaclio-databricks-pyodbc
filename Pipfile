@@ -5,7 +5,7 @@ verify_ssl = true
 
 [dev-packages]
 # Install project as editable
-tentaclio-databricks = {editable = true,path = "."}
+tentaclio-databricks-pyodbc = {editable = true,path = "."}
 pytest = "*"
 pytest-cov = "*"
 

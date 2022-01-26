@@ -1,5 +1,5 @@
 
-# tentaclio-databricks
+# tentaclio-databricks-pyodbc
 
 A package containing all the dependencies for the `databricks+pyodbc` tentaclio schema .
 
