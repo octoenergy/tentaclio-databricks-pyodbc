@@ -51,7 +51,7 @@ setup_args = dict(
     author_email="nerds@octopus.energy",
     license="Proprietary",
     package_dir={"": "src"},
-    packages=find_packages("src", include=["*tentaclio_databricks*"]),
+    packages=find_packages("src", include=["*tentaclio_databricks_pyodbc*"]),
     install_requires=install_requires,
     classifiers=[
         "Intended Audience :: Developers",
