@@ -2,7 +2,7 @@ from typing import Dict
 
 import pytest
 
-from tentaclio_databricks.clients.databricks_client import (
+from tentaclio_databricks_pyodbc.clients.databricks_client import (
     DatabricksClient,
     build_odbc_connection_string,
 )
